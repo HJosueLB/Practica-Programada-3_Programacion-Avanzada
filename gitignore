@@ -1,6 +1,19 @@
-# Ignorar archivos temporales de Visual Studio
+# Archivos y carpetas de Visual Studio
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Ignorar binarios y archivos de compilación
+# Carpetas de compilación
 bin/
 obj/
+Debug/
+Release/
+
+# Archivos temporales
+*.log
+*.cache
+*.tmp
+*.dbmdl
+*.bak
