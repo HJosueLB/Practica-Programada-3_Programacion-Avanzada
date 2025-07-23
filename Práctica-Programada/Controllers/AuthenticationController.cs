@@ -68,7 +68,7 @@ namespace Práctica_Programada.Controllers
                 Session["UserName"] = user.Name;
 
                 // Mensaje: Inicio de sesión exitoso - Bienvenida del usuario.
-                TempData["Welcome"] = "Bienvenido, " + user.Name + user.Lastname + "!";
+                TempData["Welcome"] = "Bienvenido, " + user.Name + " " + user.Lastname + "!";
 
                 // Redirección: A la vista de comentarios.
                 return RedirectToAction("Index", "Comment");
