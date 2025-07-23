@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Error Interno del Servidor";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container text-center mt-5">
+    <h1 class="display-4 text-danger">500</h1>
+    <h3 class="text-muted">Ha ocurrido un error inesperado. Estamos trabajando en ello.</h3>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary mt-3">Volver al inicio</a>
+</div>

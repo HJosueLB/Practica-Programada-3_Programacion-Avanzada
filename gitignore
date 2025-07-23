@@ -1,0 +1,6 @@
+# Ignorar archivos temporales de Visual Studio
+.vs/
+
+# Ignorar binarios y archivos de compilación
+bin/
+obj/

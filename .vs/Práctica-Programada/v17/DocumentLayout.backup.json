@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\views\\shared\\error500.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\views\\shared\\error500.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\filters\\manejodeerrores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\filters\\manejodeerrores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|c:\\users\\laura\\desktop\\fidelitas\\vi cuatrimestre\\programaci\u00F3n avanzada\\practicaprogramada_3\\practica-programada-3_programacion-avanzada\\pr\u00E1ctica-programada\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4947A6FF-C436-47BA-AA89-8417B7EF62A2}|Pr\u00E1ctica-Programada\\Pr\u00E1ctica-Programada.csproj|solutionrelative:pr\u00E1ctica-programada\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:55:27.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T08:31:54.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T08:26:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error500.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Shared\\Error500.cshtml",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Views\\Shared\\Error500.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Shared\\Error500.cshtml",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Views\\Shared\\Error500.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T08:20:31.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:16:57.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManejoDeErrores.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Filters\\ManejoDeErrores.cs",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Filters\\ManejoDeErrores.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Filters\\ManejoDeErrores.cs",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Filters\\ManejoDeErrores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:14:41.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:02:04.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Global.asax.cs",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Global.asax.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:53:02.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Views\\Home\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Views\\Home\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:50:26.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Comment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica-Programada\\Views\\Comment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Fidelitas\\VI Cuatrimestre\\Programaci\u00F3n Avanzada\\PracticaProgramada_3\\Practica-Programada-3_Programacion-Avanzada\\Pr\u00E1ctica-Programada\\Views\\Comment\\Index.cshtml",
+              "RelativeToolTip": "Pr\u00E1ctica-Programada\\Views\\Comment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:38:05.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
