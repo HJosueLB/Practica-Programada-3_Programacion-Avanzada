@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Práctica_Programada.Models.Comment>
+
+@{
+    ViewBag.Title = "Comentarios del blog";
+}
+
+<h2>Comentarios</h2>
+
+@if (TempData["Welcome"] != null)
+{
+    <div class="alert alert-info">@TempData["Welcome"]</div>
+}
+
+<div>
+    <p>👤 Usuario logueado: <strong>@ViewBag.UserName</strong></p>
+    <p>Total comentarios: <strong>@ViewBag.TotalComentarios</strong></p>
+    @Html.ActionLink("Cerrar sesión", "Logout", "Authentication", null, new { @class = "btn btn-danger" })
+</div>
+
+<hr />
+
+<h3>Agregar comentario</h3>
+@using (Html.BeginForm("Create", "Comment", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <textarea name="content" rows="3" style="width:100%;" placeholder="Escribe tu comentario..."></textarea>
+    <br />
+    <br />
+    <button type="submit">Enviar</button>
+}
+
+<hr />
+
+<h3>Lista de comentarios</h3>
+@if (!Model.Any())
+{
+    <p>No hay comentarios aún.</p>
+}
+else
+{
+    <ul>
+        @foreach (var c in Model)
+        {
+            <li>
+                <strong>@c.User.Name</strong> dijo:
+                <blockquote>@c.Content</blockquote>
+                <small>@c.CreatedAt.ToString("dd/MM/yyyy HH:mm")</small>
+            </li>
+        }
+    </ul>
+}

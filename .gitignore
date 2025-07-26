@@ -1,0 +1,19 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos temporales
+*.log
+*.cache
+*.tmp
+*.dbmdl
+*.bak
